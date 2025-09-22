@@ -3,6 +3,9 @@
 
 #### except
 
+# This file
+!.gitignore
+
 # Version Control configuration for your project
 !vcs.xml
 
